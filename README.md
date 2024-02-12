@@ -1,16 +1,18 @@
-### Hi there 👋
+# Roy
+## About me
+I like playing chess and videogames with friends in my free time i also enjoy playing handball, basketball and badminton. 
 
-<!--
-**RoyWSCW/RoyWSCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Why I chose Digital Technology
+I chose digital technology because im interested in learning about python, javascript, game development and 3d modelling and just programming/coding in general. I believe since practically everyone uses the internet now why not have a headstart by learning more about it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Past projects
+- **test** <br> asdfb
+
+---
+
+## Aspirations
+- fw
