@@ -10,7 +10,7 @@ I chose digital technology because im interested in learning about python, javas
 ---
 
 ## Past projects
-- **3D Pa site** <br> I've utilized Tinkercad to create a 3D Pa Site ![Link](https://www.tinkercad.com/things/95ExxhYVK1B-pa/edit?returnTo=%2Fdashboard)
+- **3D Pa site** <br> I've utilized Tinkercad to create a 3D Pa Site [Link](https://www.tinkercad.com/things/95ExxhYVK1B-pa/edit?returnTo=%2Fdashboard)
 
 ---
 
